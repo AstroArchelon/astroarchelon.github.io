@@ -1,2 +1,2 @@
 # galactikoopa.github.io
-this is just so i have a domain for java packages
+Please ignore this website
